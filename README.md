@@ -138,7 +138,7 @@ A skill relê os inputs dos passos anteriores pra manter coerência.
 
 Feito com 🩵 por **Andrey — Geek nos Negócios**
 
-📸 Siga no Instagram: [@geeknosnegocios](https://instagram.com/geeknosnegocios)
+📸 Siga no Instagram: [@andreyogeek](https://instagram.com/andreyogeek)
 
 💡 Ganhe 60 créditos grátis no ugcvideo.ai:
 **https://www.ugcvideo.ai/?ref=GEEK**

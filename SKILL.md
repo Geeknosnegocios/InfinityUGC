@@ -353,7 +353,7 @@ Arquivos gerados em ./ugc-[slug]/:
 pra ganhar 60 créditos grátis (30 no cadastro + 30 na 1ª geração)
 
 🩵 Feito com carinho por Andrey — Geek nos Negócios
-📸 Me segue no Instagram: @geeknosnegocios → https://instagram.com/geeknosnegocios
+📸 Me segue no Instagram: @andreyogeek → https://instagram.com/andreyogeek
 ```
 
 ---
