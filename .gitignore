@@ -1,0 +1,17 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output de projetos UGC (gerados pela skill)
+ugc-*/
+!ugc-*/.gitkeep
+
+# Node (caso alguém adicione tooling depois)
+node_modules/
+*.log
